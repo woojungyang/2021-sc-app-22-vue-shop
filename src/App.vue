@@ -1,6 +1,6 @@
 <template>
   <div class="container my-3">
-    <TitleCp : title="mainTitle" />
+    <TitleCp :title="mainTitle" />
   </div>
 </template>
 
@@ -18,6 +18,6 @@ export default {
 };
 </script>
 
-<style>
+<style lang="scss">
 
 </style>
