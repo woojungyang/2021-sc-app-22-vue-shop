@@ -9,7 +9,7 @@
 
 <script>
 export default {
-  name: 'TitleCp',
+  name: 'Title',
   props: ['title'],
 };
 </script>
@@ -20,6 +20,7 @@ export default {
   background-color: $secondary-color;
   color: $primary-color;
   font-size: 1.5em;
+  margin-bottom:1em;
   .logo {
     width: 1.5em;
   }
